@@ -1,0 +1,26 @@
+From d30d164b5df3419266b2b9e988b0916f0eb4abdf Mon Sep 17 00:00:00 2001
+From: BelyavtsevRS <belyavtsev.r.s@gmail.com>
+Date: Sat, 12 Jul 2025 16:20:01 +0500
+Subject: [PATCH] first twoLines clean version
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 009ae06..ec5fe80 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ line 1 change git_1
+ line 2 change_git_1 firsttime
+-line 3
+-line 4
++line 3 another two
++line 4 another tow
+ line 5
+ line 6
+ line 7
+-- 
+2.44.0.windows.1
+

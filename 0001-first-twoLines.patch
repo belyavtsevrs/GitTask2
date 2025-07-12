@@ -1,0 +1,26 @@
+From d188593328cee65f7c808ce7d6ef55e34557bdff Mon Sep 17 00:00:00 2001
+From: BelyavtsevRS <belyavtsev.r.s@gmail.com>
+Date: Sat, 12 Jul 2025 16:02:33 +0500
+Subject: [PATCH] first twoLines
+
+---
+ .firstFile.txt.swp | Bin 4096 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 .firstFile.txt.swp
+
+diff --git a/.firstFile.txt.swp b/.firstFile.txt.swp
+deleted file mode 100644
+index de9f28603af083a656d8fc808f70a85f516dc9b8..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 4096
+zcmYc?2=nw+u+%eT00IF9hDg(*j04XZ7%s3eFgPZs7J-Bb0T<U`?-2h0-JoC-&yWyL
+zoXYD!2I{Az7H5~_7wEeNIQr_lXO@H{7H1pjr)3rum$+r-r0SJal;AXBRAMv)MnizC
+z5GXB4)3x9WH8wId0O?m&QdAHY3MI>^QB9*EFd71*Aut*OqaiRF0;3@?8UmvsFd70w
+GGXwyPa30S9
+
+-- 
+2.44.0.windows.1
+

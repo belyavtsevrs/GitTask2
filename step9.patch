@@ -1,0 +1,24 @@
+From ffd3185a4164a1c6cc9eae063670890816771e61 Mon Sep 17 00:00:00 2001
+From: BelyavtsevRS <belyavtsev.r.s@gmail.com>
+Date: Sat, 12 Jul 2025 15:32:56 +0500
+Subject: [PATCH] modify 2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index fa2da6e..009ae06 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line 1
+-line 2
++line 1 change git_1
++line 2 change_git_1 firsttime
+ line 3
+ line 4
+ line 5
+-- 
+2.44.0.windows.1
+
